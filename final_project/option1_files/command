@@ -1,0 +1,2 @@
+trimmomatic SE -phred33 -trimlog trimlog -summary trimsummary sars_spike_protein_raw_reads.fastq sars_spike_protein_trimmomaticed.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+
