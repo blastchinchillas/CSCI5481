@@ -1,6 +1,4 @@
 homework4 for CSCI5481
-Chuwei Xia
-
 dependence: python(test on 3.8), numpy, matplotlib
 
 Step1: directly run "python calculate_conservation.py", with homework fasta file under the same folder.
